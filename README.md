@@ -3,5 +3,6 @@ A awesome Minecraft texture pack that gets 99% of textures from people using the
 
 **Credits**:
 No one yet
+
 **How to submit textures**:
 Design the texture and make a pull request with the new texture.
